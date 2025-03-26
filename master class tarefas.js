@@ -13,3 +13,4 @@ function adicionar_tarefa(tarefa) {
 
 adicionar_tarefa("Finalizar implementação da lista de tarefas");
 console.log("Lista atual de tarefas:", lista_tarefas);
+function removertarefas(teste){}
